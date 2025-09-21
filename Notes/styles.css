@@ -71,13 +71,12 @@ a:hover {
 .parent {
   border: 4px solid red;
 }
-
 .child {
   width: 50%;
   padding: 20px;
   border: 4px solid green;
-    margin: auto;   /* Center the child element */
-    box-sizing: border-box; /* Include padding and border in the element's total width and height */
+  margin: auto;   /* Center the child element */
+  box-sizing: border-box; /* Include padding and border in the element's total width and height */
   margin-left: auto;
   margin-right: auto;
 }
