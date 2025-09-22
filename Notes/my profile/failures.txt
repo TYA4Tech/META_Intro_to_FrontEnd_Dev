@@ -1,0 +1,10 @@
+The following tests failed:
+
+✗ There should be 5 <div> tags in the <body>
+✗ The <h1> tag should have the color blue
+✗ The photo <img> tag should have a border width of 2px (+ 2 related tests)
+✗ The artists <h2> tag should have the color grey
+✗ The 3rd <div> tag should have a margin of 4px
+✗ The 4th <div> tag should have an <h2> tag (+ 2 related tests)
+✗ The 4th <div> tag should have a <ol> tag (+ 2 related tests)
+✗ There should be a 5th <div> tag in the <body> tag (+ 4 related tests)
